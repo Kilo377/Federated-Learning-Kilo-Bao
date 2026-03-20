@@ -38,6 +38,6 @@ This project is licensed under the MIT License.
 
 
 ## Contact
-For any queries or further information, please contact [chongyou.bao@pdx.edu].
+For any queries or further information, please contact [kilobao377@gmail.com].
 
 
